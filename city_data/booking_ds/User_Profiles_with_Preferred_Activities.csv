@@ -1,0 +1,11 @@
+User ID,Age,Travel Frequency (trips/year),Preferred Transport,Preferred Accommodation Type,Budget per Trip ($),Preferred Activities
+1,28,3,Flight,Hotel,1500,"Sightseeing, Hiking"
+2,34,2,Train,Hostel,800,"Museum Visits, Local Food"
+3,22,4,Bus,Airbnb,600,"Nightlife, Shopping"
+4,29,3,Car,Hotel,1200,"Beach Activities, Surfing"
+5,31,1,Flight,Resort,2000,"Spa, Fine Dining"
+6,26,5,Train,Hostel,500,"Hiking, Photography"
+7,35,2,Bus,Airbnb,700,"Cultural Tours, Local Food"
+8,27,3,Car,Hotel,1300,"Adventure Sports, Camping"
+9,30,4,Flight,Resort,1800,"Wine Tasting, Golf"
+10,25,2,Train,Hostel,900,"Music Festivals, Art Shows"

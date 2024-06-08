@@ -1,0 +1,501 @@
+InteractionID,TravelerID,CountryOfTravel,InteractionType,Duration,Sentiment,SocialCloseness
+I0001,T0084,USA,Social Media,4.79,Positive,0.79
+I0002,T0050,Japan,In-person,0.95,Negative,0.57
+I0003,T0008,Japan,Phone,4.68,Neutral,0.98
+I0004,T0051,Japan,Email,2.05,Positive,0.15
+I0005,T0059,USA,Social Media,4.78,Positive,0.15
+I0006,T0018,Japan,In-person,1.78,Negative,0.66
+I0007,T0016,UK,Social Media,1.78,Neutral,0.03
+I0008,T0053,Canada,Social Media,1.24,Neutral,0.94
+I0009,T0065,Canada,Phone,0.21,Positive,0.98
+I0010,T0031,Canada,In-person,3.53,Negative,0.02
+I0011,T0005,Germany,In-person,0.17,Neutral,0.06
+I0012,T0004,India,Social Media,2.37,Neutral,0.36
+I0013,T0040,UK,Phone,1.69,Positive,0.47
+I0014,T0014,UK,Social Media,1.67,Neutral,0.45
+I0015,T0013,Italy,In-person,1.87,Neutral,0.96
+I0016,T0025,Spain,In-person,2.46,Neutral,0.28
+I0017,T0021,Germany,Social Media,3.17,Negative,0.39
+I0018,T0020,UK,In-person,2.05,Positive,0.53
+I0019,T0070,India,Email,1.27,Positive,0.27
+I0020,T0074,Canada,Email,2.42,Positive,0.16
+I0021,T0069,UK,Social Media,3.53,Neutral,0.87
+I0022,T0088,Spain,In-person,0.26,Negative,0.83
+I0023,T0006,Germany,Email,0.96,Positive,0.03
+I0024,T0086,UK,Social Media,1.57,Positive,0.58
+I0025,T0091,Italy,In-person,2.8,Neutral,0.51
+I0026,T0046,USA,Phone,3.57,Positive,0.86
+I0027,T0054,Australia,Social Media,4.44,Positive,0.41
+I0028,T0073,USA,In-person,1.29,Negative,0.08
+I0029,T0001,Germany,Phone,2.97,Negative,0.02
+I0030,T0033,Australia,Email,4.18,Positive,0.97
+I0031,T0022,Australia,Social Media,0.98,Positive,0.22
+I0032,T0091,France,Social Media,2.23,Negative,0.12
+I0033,T0001,Canada,Phone,2.86,Negative,0.66
+I0034,T0076,Canada,Social Media,2.42,Positive,0.25
+I0035,T0092,UK,Social Media,3.76,Neutral,0.16
+I0036,T0078,Canada,Email,2.23,Neutral,0.83
+I0037,T0084,USA,Email,2.96,Positive,0.79
+I0038,T0005,Australia,Phone,4.0,Positive,0.72
+I0039,T0048,USA,In-person,0.54,Positive,0.58
+I0040,T0076,Australia,In-person,4.02,Negative,0.28
+I0041,T0015,UK,Phone,2.36,Negative,0.52
+I0042,T0094,Italy,In-person,4.0,Neutral,0.31
+I0043,T0051,France,Social Media,0.39,Neutral,0.86
+I0044,T0056,Spain,Email,3.48,Neutral,0.52
+I0045,T0066,USA,Social Media,3.58,Neutral,0.36
+I0046,T0056,UK,Email,4.97,Negative,0.6
+I0047,T0015,Canada,Email,1.15,Negative,0.69
+I0048,T0083,Germany,Email,0.71,Positive,0.1
+I0049,T0039,Germany,In-person,0.22,Neutral,0.3
+I0050,T0041,India,Email,4.04,Positive,0.45
+I0051,T0008,India,Phone,0.79,Positive,0.89
+I0052,T0092,India,Email,0.77,Positive,0.92
+I0053,T0044,Japan,Social Media,3.1,Negative,0.18
+I0054,T0053,India,Social Media,0.76,Neutral,0.78
+I0055,T0098,USA,Email,4.52,Negative,0.75
+I0056,T0042,Germany,Phone,0.17,Neutral,0.55
+I0057,T0097,Australia,Email,0.52,Neutral,0.04
+I0058,T0035,Canada,Social Media,2.76,Positive,0.77
+I0059,T0012,UK,In-person,3.39,Positive,0.35
+I0060,T0008,Italy,Social Media,4.8,Negative,0.55
+I0061,T0048,Australia,Phone,2.68,Neutral,0.35
+I0062,T0037,Australia,Social Media,1.28,Negative,1.0
+I0063,T0088,USA,Phone,3.58,Positive,0.89
+I0064,T0085,Canada,Phone,1.79,Neutral,0.25
+I0065,T0023,UK,Phone,3.24,Neutral,0.4
+I0066,T0049,Germany,In-person,4.97,Negative,0.2
+I0067,T0056,Germany,Email,4.26,Positive,0.92
+I0068,T0087,UK,Social Media,3.87,Positive,0.46
+I0069,T0064,USA,Social Media,3.69,Positive,0.11
+I0070,T0049,Australia,Email,4.31,Negative,0.87
+I0071,T0073,Australia,In-person,4.21,Negative,0.42
+I0072,T0064,Italy,Email,4.64,Positive,0.01
+I0073,T0052,India,Email,4.1,Neutral,0.95
+I0074,T0066,USA,In-person,4.38,Negative,0.16
+I0075,T0061,Canada,Phone,2.55,Negative,0.89
+I0076,T0078,Germany,In-person,3.25,Positive,0.54
+I0077,T0047,India,Phone,0.94,Neutral,0.89
+I0078,T0030,Spain,Phone,3.76,Negative,0.35
+I0079,T0048,Germany,In-person,3.7,Negative,0.2
+I0080,T0025,Italy,Phone,2.23,Neutral,0.03
+I0081,T0085,USA,Email,4.05,Negative,0.28
+I0082,T0010,Canada,Social Media,3.8,Positive,0.56
+I0083,T0021,Canada,In-person,2.79,Neutral,0.57
+I0084,T0028,UK,Phone,3.59,Negative,0.63
+I0085,T0014,Canada,In-person,2.5,Neutral,0.25
+I0086,T0090,Japan,Phone,0.61,Positive,0.84
+I0087,T0088,France,Email,2.52,Negative,0.8
+I0088,T0035,USA,Email,2.42,Negative,0.99
+I0089,T0057,India,Email,3.54,Neutral,0.3
+I0090,T0072,Italy,Social Media,0.62,Neutral,1.0
+I0091,T0062,USA,Phone,2.38,Neutral,0.82
+I0092,T0043,Australia,In-person,4.67,Negative,0.86
+I0093,T0097,USA,In-person,4.82,Neutral,0.88
+I0094,T0096,Spain,In-person,0.59,Negative,0.03
+I0095,T0019,Italy,Email,4.44,Positive,0.45
+I0096,T0084,France,In-person,1.54,Positive,0.48
+I0097,T0043,UK,Social Media,2.32,Positive,0.06
+I0098,T0069,Germany,Email,3.08,Negative,0.01
+I0099,T0058,Italy,Phone,1.39,Positive,0.5
+I0100,T0085,Australia,In-person,3.74,Negative,0.25
+I0101,T0067,France,Social Media,3.75,Negative,0.2
+I0102,T0041,Japan,In-person,0.62,Positive,0.7
+I0103,T0042,Spain,Phone,3.35,Neutral,0.72
+I0104,T0014,Spain,Social Media,3.67,Negative,0.57
+I0105,T0092,USA,Social Media,2.11,Negative,0.08
+I0106,T0060,Spain,Email,0.21,Negative,0.06
+I0107,T0071,Germany,In-person,4.88,Neutral,0.65
+I0108,T0048,Spain,Email,2.78,Negative,0.99
+I0109,T0100,Japan,Email,1.07,Neutral,0.65
+I0110,T0074,Japan,Social Media,3.01,Negative,0.57
+I0111,T0035,India,Social Media,3.37,Positive,0.86
+I0112,T0095,UK,Email,3.27,Negative,0.49
+I0113,T0057,Canada,Email,4.63,Neutral,0.4
+I0114,T0082,Australia,In-person,1.22,Negative,0.13
+I0115,T0020,Germany,In-person,1.77,Negative,0.02
+I0116,T0011,Japan,In-person,2.35,Negative,0.44
+I0117,T0100,Spain,In-person,1.96,Neutral,0.59
+I0118,T0086,Germany,Phone,1.44,Negative,0.23
+I0119,T0073,Italy,Phone,4.23,Neutral,0.93
+I0120,T0036,Australia,Email,3.8,Neutral,0.41
+I0121,T0007,Japan,Social Media,1.77,Positive,0.84
+I0122,T0014,India,In-person,0.31,Positive,0.3
+I0123,T0088,UK,In-person,0.58,Positive,0.94
+I0124,T0038,Italy,In-person,2.15,Positive,0.35
+I0125,T0085,Australia,Phone,4.29,Negative,0.93
+I0126,T0054,Japan,Email,4.05,Negative,0.39
+I0127,T0075,India,In-person,0.82,Positive,0.5
+I0128,T0034,France,Email,1.76,Positive,0.74
+I0129,T0064,Spain,Email,1.75,Positive,0.22
+I0130,T0079,Australia,Email,2.61,Neutral,0.14
+I0131,T0074,France,Social Media,2.43,Negative,0.01
+I0132,T0056,India,In-person,4.27,Negative,0.29
+I0133,T0089,Italy,Phone,0.74,Positive,0.36
+I0134,T0080,India,Social Media,3.79,Neutral,0.65
+I0135,T0032,USA,Email,0.67,Neutral,0.77
+I0136,T0054,Italy,Email,1.94,Positive,0.11
+I0137,T0097,Australia,Phone,4.73,Neutral,0.39
+I0138,T0013,Germany,Email,3.47,Negative,0.21
+I0139,T0079,Germany,Email,3.6,Neutral,0.89
+I0140,T0006,Spain,Phone,2.91,Neutral,0.51
+I0141,T0022,India,In-person,1.64,Negative,0.24
+I0142,T0050,France,Email,3.12,Negative,0.53
+I0143,T0070,Canada,In-person,1.07,Positive,0.56
+I0144,T0100,France,Social Media,4.76,Negative,0.61
+I0145,T0055,Italy,In-person,3.52,Positive,0.8
+I0146,T0085,Japan,In-person,4.18,Negative,0.07
+I0147,T0046,Japan,In-person,0.13,Positive,0.88
+I0148,T0017,UK,In-person,3.14,Positive,0.76
+I0149,T0087,Australia,Phone,2.82,Negative,0.27
+I0150,T0100,Japan,Email,2.89,Positive,0.84
+I0151,T0087,Australia,Email,3.34,Neutral,0.59
+I0152,T0045,UK,Email,1.12,Negative,0.28
+I0153,T0002,UK,Email,1.93,Negative,0.21
+I0154,T0077,Spain,Email,1.18,Negative,0.94
+I0155,T0089,Canada,In-person,2.6,Negative,0.32
+I0156,T0053,India,Social Media,2.18,Negative,0.23
+I0157,T0064,UK,Email,0.34,Positive,0.9
+I0158,T0029,Canada,In-person,1.62,Positive,0.78
+I0159,T0042,Japan,Social Media,4.43,Neutral,0.98
+I0160,T0038,Italy,Email,0.44,Neutral,0.25
+I0161,T0001,Italy,Social Media,1.42,Neutral,0.96
+I0162,T0092,Japan,Phone,3.55,Negative,0.84
+I0163,T0063,Canada,In-person,4.79,Neutral,0.54
+I0164,T0023,France,Social Media,3.8,Negative,0.71
+I0165,T0093,Japan,Phone,4.96,Neutral,0.85
+I0166,T0030,Japan,Phone,2.42,Neutral,0.91
+I0167,T0006,Spain,Social Media,0.15,Neutral,0.21
+I0168,T0094,UK,Email,4.51,Positive,0.07
+I0169,T0059,Spain,In-person,1.72,Neutral,0.61
+I0170,T0003,India,Email,0.7,Positive,0.5
+I0171,T0002,Australia,In-person,1.07,Neutral,0.06
+I0172,T0083,Italy,Phone,3.47,Neutral,0.92
+I0173,T0031,Spain,Email,0.72,Neutral,0.72
+I0174,T0073,France,In-person,4.98,Positive,0.64
+I0175,T0074,France,In-person,4.21,Neutral,0.97
+I0176,T0069,Australia,In-person,3.98,Negative,0.8
+I0177,T0010,Australia,In-person,4.09,Positive,0.15
+I0178,T0025,USA,Phone,1.94,Neutral,0.37
+I0179,T0015,Japan,Email,1.5,Positive,0.54
+I0180,T0096,USA,In-person,1.68,Neutral,0.14
+I0181,T0014,UK,Phone,1.02,Negative,0.04
+I0182,T0055,Japan,Email,4.31,Neutral,0.37
+I0183,T0098,Germany,Email,2.01,Neutral,0.84
+I0184,T0009,Canada,Email,0.44,Neutral,0.05
+I0185,T0010,Canada,Social Media,1.38,Neutral,0.46
+I0186,T0086,India,Email,2.43,Positive,0.25
+I0187,T0087,Italy,Phone,0.41,Negative,0.91
+I0188,T0100,USA,Email,4.88,Neutral,0.48
+I0189,T0082,India,In-person,4.64,Neutral,0.81
+I0190,T0003,Germany,Email,4.45,Negative,0.33
+I0191,T0059,Germany,In-person,1.06,Neutral,0.54
+I0192,T0069,India,Email,1.49,Neutral,0.42
+I0193,T0023,Italy,Social Media,3.91,Negative,0.63
+I0194,T0019,USA,In-person,1.85,Positive,0.65
+I0195,T0071,Canada,Social Media,1.91,Positive,0.45
+I0196,T0022,India,In-person,0.37,Neutral,0.47
+I0197,T0046,Germany,Social Media,3.42,Neutral,0.38
+I0198,T0085,Spain,Phone,3.96,Neutral,0.91
+I0199,T0091,Japan,In-person,1.96,Positive,0.53
+I0200,T0064,USA,Social Media,1.1,Negative,0.45
+I0201,T0038,Japan,Social Media,2.61,Neutral,0.84
+I0202,T0035,India,Phone,4.09,Negative,0.73
+I0203,T0052,Australia,Phone,2.09,Negative,0.31
+I0204,T0076,India,In-person,4.22,Negative,0.88
+I0205,T0007,Spain,Phone,4.89,Negative,0.03
+I0206,T0001,Australia,Email,3.08,Neutral,0.9
+I0207,T0051,Japan,Email,3.86,Neutral,0.82
+I0208,T0099,UK,Phone,0.36,Neutral,0.52
+I0209,T0045,Canada,Email,4.11,Neutral,0.92
+I0210,T0071,UK,In-person,2.17,Positive,0.73
+I0211,T0049,Japan,In-person,1.7,Positive,0.15
+I0212,T0025,Germany,Phone,2.36,Neutral,0.86
+I0213,T0073,Spain,Social Media,3.71,Neutral,0.71
+I0214,T0019,Germany,In-person,2.18,Positive,0.8
+I0215,T0043,Australia,In-person,4.75,Neutral,0.82
+I0216,T0066,Canada,Email,4.18,Neutral,0.24
+I0217,T0029,USA,Phone,0.78,Negative,0.7
+I0218,T0062,Italy,Phone,4.99,Negative,0.1
+I0219,T0047,India,Social Media,3.28,Positive,0.54
+I0220,T0039,Canada,Email,2.99,Neutral,0.53
+I0221,T0012,USA,Email,3.39,Negative,0.82
+I0222,T0001,Germany,In-person,0.42,Positive,0.88
+I0223,T0060,USA,Social Media,4.28,Negative,0.25
+I0224,T0074,Australia,Social Media,1.44,Negative,0.96
+I0225,T0006,Australia,Email,3.59,Negative,0.08
+I0226,T0013,Canada,In-person,4.21,Negative,0.46
+I0227,T0001,UK,Social Media,4.45,Positive,0.46
+I0228,T0061,France,In-person,4.54,Positive,0.34
+I0229,T0026,UK,Social Media,2.05,Negative,0.52
+I0230,T0068,India,In-person,3.52,Negative,0.5
+I0231,T0077,India,Social Media,4.16,Negative,0.59
+I0232,T0067,USA,Email,4.04,Neutral,0.3
+I0233,T0078,Spain,In-person,1.27,Negative,0.96
+I0234,T0056,USA,In-person,0.85,Neutral,0.83
+I0235,T0016,Japan,In-person,2.97,Positive,0.14
+I0236,T0007,Australia,Email,3.53,Negative,0.27
+I0237,T0025,Canada,In-person,4.75,Neutral,0.24
+I0238,T0070,India,In-person,4.6,Negative,0.51
+I0239,T0040,India,In-person,3.53,Negative,0.24
+I0240,T0042,UK,Phone,2.03,Negative,0.93
+I0241,T0082,Italy,Phone,3.74,Positive,0.44
+I0242,T0040,UK,In-person,0.27,Negative,0.57
+I0243,T0072,Canada,Social Media,0.93,Negative,0.79
+I0244,T0008,France,Phone,0.98,Neutral,1.0
+I0245,T0019,Japan,Phone,1.82,Positive,0.04
+I0246,T0016,France,Phone,1.42,Neutral,0.31
+I0247,T0001,USA,Social Media,4.85,Negative,0.91
+I0248,T0026,Italy,Email,4.14,Neutral,0.32
+I0249,T0056,Canada,Email,2.37,Negative,0.65
+I0250,T0066,India,Email,1.03,Positive,0.07
+I0251,T0046,Australia,Social Media,3.03,Negative,0.45
+I0252,T0097,Australia,Email,3.42,Positive,0.02
+I0253,T0016,UK,In-person,2.58,Negative,0.24
+I0254,T0024,Japan,Phone,1.18,Neutral,0.31
+I0255,T0018,Italy,Social Media,0.31,Neutral,0.59
+I0256,T0068,India,Email,3.27,Neutral,1.0
+I0257,T0060,Spain,Social Media,2.84,Neutral,0.72
+I0258,T0079,Spain,In-person,1.61,Negative,0.57
+I0259,T0050,Italy,Social Media,3.59,Positive,0.97
+I0260,T0024,Germany,Social Media,0.26,Neutral,0.47
+I0261,T0067,UK,In-person,1.68,Negative,0.85
+I0262,T0029,Italy,Phone,3.86,Positive,0.44
+I0263,T0006,Italy,Social Media,4.48,Neutral,0.74
+I0264,T0097,France,Phone,1.26,Positive,0.56
+I0265,T0058,UK,Phone,3.69,Positive,0.71
+I0266,T0014,Canada,In-person,3.9,Negative,0.71
+I0267,T0092,Japan,Phone,1.23,Positive,0.54
+I0268,T0099,India,In-person,4.8,Neutral,0.5
+I0269,T0042,UK,Social Media,4.92,Neutral,0.98
+I0270,T0011,UK,Social Media,0.39,Negative,0.39
+I0271,T0014,France,In-person,0.91,Positive,0.31
+I0272,T0072,Germany,In-person,0.61,Negative,0.27
+I0273,T0014,Spain,Phone,4.0,Neutral,0.48
+I0274,T0046,Australia,In-person,1.8,Negative,0.49
+I0275,T0007,Canada,Social Media,4.05,Neutral,0.32
+I0276,T0019,USA,Phone,0.35,Positive,0.85
+I0277,T0087,Japan,Phone,4.94,Neutral,0.29
+I0278,T0019,Spain,Phone,4.76,Negative,0.7
+I0279,T0052,Japan,Social Media,2.67,Neutral,0.09
+I0280,T0029,Japan,Email,1.39,Negative,0.75
+I0281,T0090,Canada,In-person,3.54,Neutral,0.73
+I0282,T0079,Australia,In-person,0.57,Positive,0.23
+I0283,T0053,Japan,In-person,2.36,Positive,0.09
+I0284,T0036,Spain,Email,1.59,Positive,0.98
+I0285,T0083,USA,In-person,4.93,Neutral,0.09
+I0286,T0057,UK,Social Media,2.3,Neutral,0.71
+I0287,T0055,France,Social Media,3.92,Neutral,0.81
+I0288,T0099,Australia,Phone,4.65,Positive,0.1
+I0289,T0005,Italy,In-person,4.84,Neutral,0.65
+I0290,T0020,USA,Social Media,1.56,Negative,0.31
+I0291,T0071,India,Social Media,2.23,Negative,0.41
+I0292,T0002,India,Social Media,4.42,Neutral,0.68
+I0293,T0089,USA,Social Media,1.49,Neutral,0.49
+I0294,T0013,Japan,Social Media,2.23,Negative,0.17
+I0295,T0093,Canada,Email,1.18,Positive,0.69
+I0296,T0047,Canada,Email,1.24,Positive,0.54
+I0297,T0028,Italy,Social Media,2.56,Positive,0.79
+I0298,T0087,USA,Email,3.51,Positive,0.36
+I0299,T0091,India,Email,1.65,Neutral,0.68
+I0300,T0069,Australia,Social Media,1.49,Negative,0.31
+I0301,T0041,Australia,Social Media,1.99,Negative,0.88
+I0302,T0012,France,Phone,3.88,Neutral,0.96
+I0303,T0096,France,Email,2.74,Positive,0.88
+I0304,T0035,Germany,Email,3.21,Positive,0.72
+I0305,T0016,Australia,Social Media,1.75,Neutral,0.56
+I0306,T0029,Australia,In-person,3.78,Neutral,0.67
+I0307,T0074,Germany,Phone,4.93,Neutral,0.28
+I0308,T0002,Australia,Email,0.47,Neutral,0.13
+I0309,T0065,Canada,Social Media,0.97,Positive,0.61
+I0310,T0093,Germany,Social Media,2.83,Negative,0.24
+I0311,T0100,USA,Email,3.3,Neutral,0.15
+I0312,T0048,Australia,Phone,0.47,Positive,0.44
+I0313,T0057,Australia,Phone,4.78,Neutral,0.86
+I0314,T0089,Spain,Social Media,0.46,Negative,0.57
+I0315,T0009,Japan,In-person,4.67,Negative,0.93
+I0316,T0094,India,Social Media,2.0,Negative,0.45
+I0317,T0052,Germany,Email,4.19,Positive,0.09
+I0318,T0046,Spain,Social Media,2.61,Positive,0.23
+I0319,T0090,USA,Social Media,1.66,Negative,0.92
+I0320,T0077,Australia,Social Media,1.68,Negative,0.59
+I0321,T0085,UK,Email,1.01,Neutral,0.69
+I0322,T0083,UK,Email,4.28,Positive,0.01
+I0323,T0072,Canada,Phone,4.39,Negative,0.51
+I0324,T0017,France,Email,2.13,Positive,0.31
+I0325,T0096,Spain,Email,4.93,Negative,0.38
+I0326,T0033,Canada,In-person,4.71,Negative,0.16
+I0327,T0065,Australia,Email,2.86,Negative,0.1
+I0328,T0003,Italy,Social Media,3.0,Positive,0.06
+I0329,T0080,Spain,In-person,4.42,Positive,0.01
+I0330,T0059,Japan,Social Media,3.58,Negative,0.34
+I0331,T0075,Japan,Email,2.97,Negative,0.93
+I0332,T0058,India,Social Media,2.21,Positive,0.89
+I0333,T0085,Canada,Social Media,1.15,Positive,0.99
+I0334,T0090,Spain,Phone,0.56,Neutral,0.14
+I0335,T0058,Germany,Email,4.59,Positive,0.36
+I0336,T0054,Spain,Social Media,2.98,Neutral,0.64
+I0337,T0021,Japan,Social Media,4.02,Positive,0.85
+I0338,T0096,Spain,Phone,4.43,Negative,0.6
+I0339,T0080,France,Email,4.81,Positive,0.22
+I0340,T0023,Australia,In-person,2.39,Positive,0.26
+I0341,T0082,Canada,In-person,2.91,Positive,0.37
+I0342,T0015,Japan,In-person,3.51,Neutral,0.77
+I0343,T0032,Germany,Phone,3.39,Positive,0.99
+I0344,T0053,France,In-person,3.17,Neutral,0.44
+I0345,T0044,Italy,Email,1.05,Neutral,0.35
+I0346,T0055,Canada,Phone,2.67,Negative,0.73
+I0347,T0029,Germany,In-person,4.96,Negative,0.53
+I0348,T0066,Germany,Social Media,0.37,Negative,0.2
+I0349,T0092,India,Phone,0.76,Neutral,0.29
+I0350,T0001,USA,Phone,2.02,Negative,0.04
+I0351,T0010,India,Phone,3.68,Negative,0.31
+I0352,T0005,Australia,Email,3.19,Neutral,0.25
+I0353,T0094,Australia,In-person,3.1,Neutral,0.6
+I0354,T0098,Germany,Social Media,3.75,Negative,0.41
+I0355,T0022,USA,Email,3.35,Negative,0.76
+I0356,T0036,India,Email,2.21,Neutral,0.07
+I0357,T0035,USA,Social Media,4.65,Neutral,0.09
+I0358,T0014,Canada,Phone,1.8,Negative,0.02
+I0359,T0035,France,Social Media,2.3,Neutral,0.39
+I0360,T0096,France,Social Media,1.55,Neutral,0.07
+I0361,T0033,Australia,In-person,1.62,Neutral,0.24
+I0362,T0065,Japan,Social Media,1.21,Neutral,0.51
+I0363,T0053,France,In-person,3.36,Neutral,0.03
+I0364,T0100,Canada,Social Media,4.69,Positive,0.54
+I0365,T0094,Spain,Phone,4.37,Positive,0.6
+I0366,T0041,India,Phone,2.55,Negative,0.21
+I0367,T0040,Italy,Social Media,1.57,Neutral,0.02
+I0368,T0056,Spain,Phone,3.74,Neutral,0.9
+I0369,T0081,Australia,Social Media,4.48,Negative,0.19
+I0370,T0030,Australia,In-person,4.04,Neutral,0.07
+I0371,T0085,Canada,Social Media,3.03,Positive,0.6
+I0372,T0081,France,In-person,3.32,Neutral,0.38
+I0373,T0023,USA,Email,2.2,Positive,0.08
+I0374,T0066,Canada,Social Media,3.12,Positive,0.48
+I0375,T0024,Spain,Email,2.81,Positive,0.53
+I0376,T0027,France,In-person,0.78,Negative,0.45
+I0377,T0005,Germany,Social Media,4.95,Positive,0.39
+I0378,T0025,Japan,Social Media,0.36,Neutral,0.7
+I0379,T0099,USA,Social Media,3.11,Neutral,0.55
+I0380,T0095,Italy,Email,3.8,Positive,0.42
+I0381,T0022,Japan,Phone,4.55,Positive,0.29
+I0382,T0028,UK,Social Media,1.13,Neutral,0.59
+I0383,T0010,France,Email,2.87,Positive,0.31
+I0384,T0070,France,Phone,3.71,Negative,0.23
+I0385,T0042,Germany,Email,2.17,Neutral,0.68
+I0386,T0084,India,In-person,4.05,Neutral,0.35
+I0387,T0034,Canada,In-person,0.64,Neutral,0.2
+I0388,T0008,UK,Phone,2.29,Positive,0.4
+I0389,T0084,France,Social Media,1.09,Negative,0.4
+I0390,T0065,Spain,Email,2.83,Positive,0.57
+I0391,T0012,France,Email,2.17,Neutral,0.63
+I0392,T0100,Australia,Social Media,2.55,Positive,0.76
+I0393,T0040,USA,In-person,1.94,Negative,0.07
+I0394,T0076,USA,Email,1.68,Positive,0.89
+I0395,T0096,Italy,Social Media,2.49,Positive,0.66
+I0396,T0012,UK,In-person,3.89,Neutral,0.56
+I0397,T0043,USA,Social Media,1.27,Negative,0.26
+I0398,T0009,Japan,Phone,3.73,Neutral,0.85
+I0399,T0035,Spain,Social Media,4.4,Negative,0.44
+I0400,T0085,Australia,Phone,2.21,Negative,0.57
+I0401,T0002,France,Social Media,1.62,Neutral,0.23
+I0402,T0038,India,In-person,1.3,Negative,0.72
+I0403,T0074,Canada,Social Media,0.77,Negative,0.11
+I0404,T0011,UK,Email,0.5,Neutral,0.0
+I0405,T0040,Spain,In-person,1.01,Negative,0.21
+I0406,T0068,India,Email,2.59,Neutral,0.78
+I0407,T0082,Spain,Phone,4.12,Positive,0.91
+I0408,T0045,France,Email,4.46,Negative,0.7
+I0409,T0080,France,In-person,4.22,Negative,0.91
+I0410,T0003,Spain,Email,3.1,Positive,0.11
+I0411,T0047,USA,Email,2.05,Neutral,0.46
+I0412,T0096,Spain,Email,4.82,Negative,0.22
+I0413,T0072,Italy,Phone,2.33,Neutral,0.67
+I0414,T0010,Japan,Email,1.17,Negative,0.51
+I0415,T0066,Canada,Social Media,1.21,Neutral,0.23
+I0416,T0047,Canada,Phone,4.49,Neutral,0.68
+I0417,T0034,France,In-person,3.9,Neutral,0.7
+I0418,T0044,Australia,Email,4.24,Positive,0.12
+I0419,T0050,Spain,Phone,3.09,Negative,0.64
+I0420,T0033,Japan,Email,2.76,Neutral,0.85
+I0421,T0064,Italy,Social Media,1.98,Neutral,0.19
+I0422,T0015,France,In-person,2.05,Negative,0.08
+I0423,T0084,India,Email,3.41,Positive,0.78
+I0424,T0014,Japan,Phone,0.65,Neutral,0.04
+I0425,T0067,Italy,Phone,4.52,Positive,0.39
+I0426,T0092,Japan,In-person,2.91,Positive,0.72
+I0427,T0035,Italy,Phone,1.81,Negative,0.52
+I0428,T0066,Canada,Phone,3.97,Positive,0.44
+I0429,T0023,UK,Email,1.95,Neutral,0.15
+I0430,T0001,USA,Phone,1.61,Positive,0.59
+I0431,T0051,Spain,Phone,1.87,Negative,0.53
+I0432,T0099,USA,Social Media,0.56,Negative,0.69
+I0433,T0066,Australia,Phone,4.78,Negative,0.73
+I0434,T0065,France,Social Media,2.41,Negative,0.39
+I0435,T0073,UK,Social Media,2.41,Negative,0.78
+I0436,T0039,Japan,Email,2.77,Positive,0.34
+I0437,T0067,UK,In-person,3.22,Neutral,0.23
+I0438,T0053,Australia,In-person,0.62,Positive,0.75
+I0439,T0098,Japan,Email,0.28,Negative,0.89
+I0440,T0027,USA,Social Media,2.66,Positive,0.54
+I0441,T0062,Spain,Email,1.68,Negative,0.4
+I0442,T0084,France,Phone,3.81,Neutral,0.34
+I0443,T0066,USA,Email,1.61,Positive,0.94
+I0444,T0013,Spain,Email,0.23,Neutral,0.18
+I0445,T0086,Germany,Social Media,4.52,Negative,0.95
+I0446,T0049,Japan,Social Media,1.79,Positive,0.95
+I0447,T0021,Italy,In-person,1.41,Neutral,0.44
+I0448,T0083,Spain,In-person,2.74,Neutral,0.21
+I0449,T0052,UK,Social Media,3.43,Positive,0.81
+I0450,T0042,USA,Social Media,1.02,Negative,0.02
+I0451,T0049,UK,In-person,1.66,Negative,0.82
+I0452,T0018,Germany,In-person,3.62,Positive,0.43
+I0453,T0011,India,In-person,3.18,Negative,0.66
+I0454,T0061,France,Social Media,3.3,Positive,0.79
+I0455,T0038,Spain,Phone,0.18,Neutral,0.13
+I0456,T0025,France,In-person,1.12,Positive,0.83
+I0457,T0047,Japan,Social Media,3.95,Positive,0.8
+I0458,T0091,Canada,Phone,3.23,Negative,0.89
+I0459,T0063,France,Social Media,1.94,Positive,0.32
+I0460,T0006,India,Social Media,0.75,Negative,0.74
+I0461,T0077,India,Phone,3.66,Neutral,0.91
+I0462,T0048,India,Phone,2.69,Neutral,0.26
+I0463,T0065,Australia,Phone,3.06,Positive,0.33
+I0464,T0036,Spain,In-person,3.81,Positive,0.19
+I0465,T0082,USA,Social Media,3.37,Negative,0.4
+I0466,T0001,UK,In-person,2.81,Neutral,0.22
+I0467,T0083,Spain,Social Media,0.47,Positive,0.61
+I0468,T0074,India,Email,1.88,Negative,0.49
+I0469,T0013,Japan,In-person,1.67,Positive,0.76
+I0470,T0067,UK,In-person,4.55,Positive,0.06
+I0471,T0051,Germany,Social Media,1.04,Positive,0.35
+I0472,T0008,Italy,Email,3.78,Neutral,1.0
+I0473,T0025,UK,Email,0.36,Positive,0.96
+I0474,T0061,Japan,Email,4.09,Neutral,0.16
+I0475,T0074,Australia,Email,2.88,Negative,0.17
+I0476,T0006,Canada,Social Media,4.73,Neutral,0.95
+I0477,T0070,Germany,Email,2.16,Neutral,0.24
+I0478,T0004,Germany,Email,1.05,Negative,0.35
+I0479,T0023,Australia,Social Media,0.8,Negative,0.95
+I0480,T0071,Italy,Social Media,3.47,Negative,0.33
+I0481,T0054,UK,Social Media,0.38,Negative,0.84
+I0482,T0068,USA,Phone,2.08,Neutral,0.88
+I0483,T0010,Canada,Phone,1.18,Negative,0.56
+I0484,T0019,Japan,Phone,2.99,Negative,0.72
+I0485,T0088,France,Email,3.76,Positive,0.23
+I0486,T0009,Spain,Phone,2.37,Negative,0.44
+I0487,T0030,Japan,In-person,3.78,Neutral,0.21
+I0488,T0049,India,In-person,3.45,Negative,0.49
+I0489,T0048,Germany,Phone,2.89,Neutral,0.63
+I0490,T0010,Italy,Email,2.79,Negative,0.84
+I0491,T0028,Germany,Phone,3.62,Neutral,0.9
+I0492,T0083,Spain,Email,1.98,Neutral,0.51
+I0493,T0067,France,Email,2.12,Negative,0.99
+I0494,T0047,UK,Social Media,4.2,Negative,0.13
+I0495,T0070,Spain,Email,2.08,Neutral,0.39
+I0496,T0082,India,Email,0.47,Positive,0.2
+I0497,T0043,Japan,In-person,2.53,Neutral,0.91
+I0498,T0035,India,Phone,4.92,Positive,0.34
+I0499,T0097,USA,Email,3.08,Negative,0.25
+I0500,T0064,Canada,Social Media,4.39,Negative,0.61

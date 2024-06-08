@@ -1,0 +1,201 @@
+RecordID,TransportMode,City,SafetyScore
+R0001,Bus,Los Angeles,4
+R0002,Bike,Sydney,2
+R0003,Ride-sharing,Paris,5
+R0004,Taxi,New York,3
+R0005,Bike,London,5
+R0006,Bike,Seoul,2
+R0007,Ride-sharing,New York,1
+R0008,Car Rental,Berlin,1
+R0009,Taxi,London,8
+R0010,Bike,Mumbai,7
+R0011,Bike,Madrid,5
+R0012,Taxi,Seoul,9
+R0013,Ride-sharing,Beijing,6
+R0014,Train,Los Angeles,6
+R0015,Car Rental,Buenos Aires,10
+R0016,Bike,Seoul,8
+R0017,Bus,Paris,5
+R0018,Ride-sharing,Sydney,9
+R0019,Ride-sharing,Los Angeles,8
+R0020,Car Rental,Bangkok,3
+R0021,Car Rental,Paris,6
+R0022,Taxi,Istanbul,6
+R0023,Car Rental,São Paulo,2
+R0024,Car Rental,Madrid,2
+R0025,Taxi,Cairo,8
+R0026,Bike,Mexico City,9
+R0027,Bus,Madrid,5
+R0028,Train,Tokyo,3
+R0029,Taxi,Beijing,10
+R0030,Car Rental,Los Angeles,9
+R0031,Ride-sharing,Cairo,6
+R0032,Bus,London,3
+R0033,Car Rental,Paris,9
+R0034,Bus,London,8
+R0035,Ride-sharing,London,3
+R0036,Taxi,São Paulo,1
+R0037,Bus,Bangkok,3
+R0038,Bike,Tokyo,2
+R0039,Taxi,Moscow,4
+R0040,Bike,Bangkok,5
+R0041,Bike,Paris,6
+R0042,Bus,Paris,1
+R0043,Taxi,Bangkok,2
+R0044,Ride-sharing,Rome,2
+R0045,Bike,Paris,6
+R0046,Ride-sharing,São Paulo,9
+R0047,Taxi,Rome,7
+R0048,Car Rental,London,10
+R0049,Ride-sharing,Mexico City,2
+R0050,Ride-sharing,Istanbul,9
+R0051,Car Rental,Bangkok,2
+R0052,Bike,Moscow,1
+R0053,Car Rental,London,8
+R0054,Bike,Paris,2
+R0055,Car Rental,Cape Town,10
+R0056,Taxi,Moscow,7
+R0057,Car Rental,Paris,7
+R0058,Bike,São Paulo,5
+R0059,Bike,Paris,3
+R0060,Ride-sharing,Cape Town,2
+R0061,Train,Mexico City,7
+R0062,Train,New York,8
+R0063,Taxi,Paris,3
+R0064,Bike,Cape Town,2
+R0065,Train,Cape Town,1
+R0066,Train,Buenos Aires,2
+R0067,Train,Moscow,9
+R0068,Taxi,São Paulo,3
+R0069,Train,Bangkok,4
+R0070,Bus,Istanbul,5
+R0071,Bus,São Paulo,7
+R0072,Bus,Beijing,1
+R0073,Car Rental,Berlin,9
+R0074,Bus,Seoul,5
+R0075,Bike,London,6
+R0076,Ride-sharing,London,10
+R0077,Bus,Rome,6
+R0078,Bike,São Paulo,1
+R0079,Train,Mexico City,2
+R0080,Bike,Moscow,5
+R0081,Taxi,Cape Town,9
+R0082,Ride-sharing,Beijing,2
+R0083,Bus,Paris,4
+R0084,Ride-sharing,Cape Town,6
+R0085,Bus,Beijing,10
+R0086,Train,New York,5
+R0087,Bus,New York,7
+R0088,Taxi,Los Angeles,8
+R0089,Bus,Tokyo,1
+R0090,Car Rental,London,2
+R0091,Bike,São Paulo,2
+R0092,Ride-sharing,Paris,7
+R0093,Car Rental,Los Angeles,10
+R0094,Train,Madrid,6
+R0095,Bus,Sydney,10
+R0096,Bike,Cape Town,2
+R0097,Car Rental,Paris,5
+R0098,Taxi,New York,9
+R0099,Ride-sharing,Cairo,6
+R0100,Ride-sharing,Seoul,8
+R0101,Taxi,Bangkok,8
+R0102,Car Rental,Madrid,3
+R0103,Taxi,São Paulo,2
+R0104,Bike,Mexico City,6
+R0105,Taxi,New York,7
+R0106,Bus,Berlin,10
+R0107,Taxi,Istanbul,10
+R0108,Bike,Tokyo,5
+R0109,Taxi,Buenos Aires,10
+R0110,Bike,Moscow,5
+R0111,Ride-sharing,New York,8
+R0112,Ride-sharing,Madrid,5
+R0113,Taxi,Paris,2
+R0114,Car Rental,Paris,5
+R0115,Taxi,Buenos Aires,10
+R0116,Car Rental,New York,8
+R0117,Ride-sharing,Mexico City,3
+R0118,Car Rental,London,1
+R0119,Bike,Los Angeles,1
+R0120,Taxi,Madrid,8
+R0121,Train,Cairo,9
+R0122,Ride-sharing,São Paulo,9
+R0123,Ride-sharing,Los Angeles,5
+R0124,Train,Sydney,4
+R0125,Bus,Cape Town,8
+R0126,Bike,Los Angeles,8
+R0127,Car Rental,Moscow,1
+R0128,Bus,Istanbul,1
+R0129,Car Rental,Rome,4
+R0130,Taxi,Madrid,7
+R0131,Taxi,Moscow,3
+R0132,Bus,Buenos Aires,9
+R0133,Taxi,London,4
+R0134,Bus,Sydney,8
+R0135,Bus,Cape Town,9
+R0136,Taxi,New York,7
+R0137,Bus,Mexico City,5
+R0138,Taxi,Rome,8
+R0139,Taxi,Bangkok,7
+R0140,Taxi,Beijing,8
+R0141,Car Rental,Beijing,8
+R0142,Bike,Los Angeles,8
+R0143,Bus,Buenos Aires,7
+R0144,Train,Berlin,7
+R0145,Taxi,Paris,9
+R0146,Bike,Mexico City,5
+R0147,Train,Cape Town,2
+R0148,Taxi,New York,8
+R0149,Bike,London,4
+R0150,Train,Paris,7
+R0151,Ride-sharing,Buenos Aires,9
+R0152,Car Rental,Cape Town,2
+R0153,Car Rental,Berlin,10
+R0154,Ride-sharing,Berlin,9
+R0155,Bike,Berlin,3
+R0156,Bus,Mexico City,9
+R0157,Car Rental,Seoul,2
+R0158,Taxi,London,1
+R0159,Bus,New York,8
+R0160,Car Rental,São Paulo,6
+R0161,Ride-sharing,Moscow,1
+R0162,Ride-sharing,Istanbul,8
+R0163,Taxi,Berlin,10
+R0164,Taxi,Sydney,10
+R0165,Bus,Tokyo,6
+R0166,Car Rental,Buenos Aires,1
+R0167,Bus,Mexico City,7
+R0168,Taxi,Rome,8
+R0169,Taxi,Cape Town,3
+R0170,Car Rental,Paris,2
+R0171,Car Rental,São Paulo,6
+R0172,Taxi,Moscow,2
+R0173,Train,São Paulo,3
+R0174,Train,Bangkok,8
+R0175,Ride-sharing,Berlin,2
+R0176,Taxi,Bangkok,4
+R0177,Car Rental,Madrid,9
+R0178,Taxi,Cape Town,10
+R0179,Taxi,Buenos Aires,5
+R0180,Train,Cape Town,6
+R0181,Bike,Paris,3
+R0182,Car Rental,London,1
+R0183,Train,Sydney,10
+R0184,Ride-sharing,Rome,7
+R0185,Bike,São Paulo,6
+R0186,Bike,Mexico City,8
+R0187,Bike,Cairo,8
+R0188,Taxi,Madrid,4
+R0189,Taxi,Moscow,6
+R0190,Ride-sharing,Sydney,7
+R0191,Bike,London,6
+R0192,Bus,London,2
+R0193,Car Rental,Bangkok,6
+R0194,Bus,London,1
+R0195,Ride-sharing,São Paulo,2
+R0196,Bus,Buenos Aires,3
+R0197,Bus,Cape Town,5
+R0198,Bus,Buenos Aires,9
+R0199,Ride-sharing,Tokyo,2
+R0200,Ride-sharing,Seoul,2

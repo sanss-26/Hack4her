@@ -1,0 +1,51 @@
+Traveler ID,Starting Location,Destination,Mode of Transport,Number of Stops,Stops,Travel Duration (hours)
+Traveler 1,Washington D.C.,Philadelphia,Flight,1,['Jacksonville'],1.4457450134383099
+Traveler 1,Philadelphia,Los Angeles,Flight,3,"['Seattle', 'Fort Lauderdale', 'Sacramento']",6.575094871025287
+Traveler 1,Los Angeles,Seattle,Flight,4,"['Chicago', 'Philadelphia', 'Montgomery', 'Madison']",1.3455021974786372
+Traveler 1,Seattle,Las Vegas,Train,1,['San Antonio'],13.342195588948131
+Traveler 1,Las Vegas,Orlando,Flight,0,[],10.624835869429415
+Traveler 2,Houston,San Antonio,Bus,0,[],13.09397848292524
+Traveler 2,San Antonio,Dallas,Car,1,['Chicago'],2.29634631165919
+Traveler 2,Dallas,Las Vegas,Bus,0,[],9.209742326608573
+Traveler 2,Las Vegas,San Antonio,Car,0,[],10.919674100280043
+Traveler 2,San Antonio,New Orleans,Flight,1,['Fort Lauderdale'],6.7468899333223975
+Traveler 3,Houston,Chicago,Train,4,"['Philadelphia', 'Orlando', 'Montgomery', 'Fort Lauderdale']",6.701376399793302
+Traveler 3,Chicago,Orlando,Flight,3,"['Montgomery', 'Las Vegas', 'Jacksonville']",12.614431470988068
+Traveler 3,Orlando,San Antonio,Flight,0,[],12.57618515592898
+Traveler 3,San Antonio,Orlando,Car,4,"['Albany', 'Fort Lauderdale', 'Cleveland', 'San Antonio']",7.437982372584104
+Traveler 3,Orlando,New Orleans,Bus,1,['Montgomery'],8.140235932455504
+Traveler 4,Austin,Chicago,Bus,3,"['San Antonio', 'Chicago', 'Macon']",13.279833522337336
+Traveler 4,Chicago,New Orleans,Car,4,"['Montgomery', 'Philadelphia', 'Portland', 'Jacksonville']",9.703498870585234
+Traveler 4,New Orleans,Chicago,Bus,1,['Orlando'],5.975163878607015
+Traveler 4,Chicago,Los Angeles,Car,2,"['Las Vegas', 'Montgomery']",4.2584178099067955
+Traveler 4,Los Angeles,Orlando,Flight,2,"['Chicago', 'Cleveland']",9.65872363317847
+Traveler 5,Austin,Las Vegas,Train,0,[],8.765629321259865
+Traveler 5,Las Vegas,San Antonio,Train,3,"['Fort Lauderdale', 'Jacksonville', 'Philadelphia']",14.796879987006166
+Traveler 5,San Antonio,Seattle,Bus,1,['Fort Lauderdale'],4.814116536523475
+Traveler 5,Seattle,Dallas,Bus,1,['San Diego'],8.775057682366448
+Traveler 5,Dallas,Chicago,Train,2,"['Seattle', 'Montgomery']",5.099116440167264
+Traveler 6,San Francisco,New Orleans,Bus,1,['Fort Lauderdale'],14.66052359195902
+Traveler 6,New Orleans,San Diego,Flight,2,"['Sacramento', 'Chicago']",13.072459655702634
+Traveler 6,San Diego,New Orleans,Car,3,"['San Antonio', 'Sacramento', 'Jacksonville']",3.8689316174358246
+Traveler 6,New Orleans,Chicago,Train,4,"['Orlando', 'Chicago', 'Portland', 'Madison']",8.037933570766393
+Traveler 6,Chicago,Orlando,Train,0,[],7.368038314621829
+Traveler 7,Phoenix,Las Vegas,Train,3,"['Cleveland', 'Albany', 'Montgomery']",9.726125422281829
+Traveler 7,Las Vegas,Chicago,Flight,3,"['Macon', 'Cleveland', 'Sacramento']",1.5044734439999727
+Traveler 7,Chicago,San Diego,Train,0,[],13.298896734078356
+Traveler 7,San Diego,Seattle,Car,3,"['Macon', 'Philadelphia', 'San Diego']",7.589085288994734
+Traveler 7,Seattle,San Diego,Train,0,[],6.150986127518578
+Traveler 8,Atlanta,Las Vegas,Train,2,"['Cleveland', 'San Antonio']",12.382754085464448
+Traveler 8,Las Vegas,San Diego,Car,0,[],3.511740978228844
+Traveler 8,San Diego,New Orleans,Car,3,"['Madison', 'Seattle', 'Philadelphia']",10.194667418171719
+Traveler 8,New Orleans,Dallas,Train,1,['Philadelphia'],2.621676018212394
+Traveler 8,Dallas,Seattle,Car,3,"['Chicago', 'Montgomery', 'Madison']",12.994573458975077
+Traveler 9,Denver,Philadelphia,Flight,4,"['Philadelphia', 'San Antonio', 'Portland', 'Montgomery']",6.675230159879785
+Traveler 9,Philadelphia,Orlando,Bus,2,"['Chicago', 'Orlando']",6.6594106511496225
+Traveler 9,Orlando,Philadelphia,Car,0,[],1.349226144779889
+Traveler 9,Philadelphia,San Antonio,Flight,3,"['Madison', 'Las Vegas', 'Portland']",5.223694524855644
+Traveler 9,San Antonio,Philadelphia,Bus,3,"['Seattle', 'Chicago', 'Portland']",8.01488441968653
+Traveler 10,Boston,Chicago,Bus,4,"['Philadelphia', 'Sacramento', 'Albany', 'Orlando']",3.5001195528071882
+Traveler 10,Chicago,Dallas,Flight,1,['Macon'],14.112639514661568
+Traveler 10,Dallas,Philadelphia,Flight,3,"['Las Vegas', 'San Diego', 'Albany']",13.601429834115986
+Traveler 10,Philadelphia,Seattle,Flight,4,"['Fort Lauderdale', 'Madison', 'Sacramento', 'Philadelphia']",12.819289461742338
+Traveler 10,Seattle,San Diego,Train,2,"['Fort Lauderdale', 'Macon']",14.094226402382247
